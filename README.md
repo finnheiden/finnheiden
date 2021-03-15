@@ -1,10 +1,5 @@
 ##### Hi. I'm Finn, I am a graphic designer at Leryon.
 
-```
-I currently develop with TypeScript, React, Node.js and Next.js.
-```
-
- Before that I was developing with PHP for a long time.
 
 Go to [my website](https://finnheiden.vercel.app) to learn more about me and my projects.
 
